@@ -203,7 +203,7 @@ ul{
 }
 
 .experience ul{
-    list-style: "•";
+    list-style: circle;
 }
 
 a{

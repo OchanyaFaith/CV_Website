@@ -202,6 +202,10 @@ ul{
     list-style: none;
 }
 
+.frontend{
+    list-style: circle;
+}
+
 a{
 text-decoration: none;
 }
